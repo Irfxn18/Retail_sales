@@ -1,0 +1,10 @@
+Name: Sales, dtype: float64
+
+Top Sale:
+OrderID            1013
+Category    Electronics
+Quantity              5
+Price               520
+Discount             10
+Sales            2340.0
+Name: 12, dtype: object
